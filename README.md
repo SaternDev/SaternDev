@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Satern!
 
 <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=blue&style=flat-square" alt="Visitas al perfil" />
 
