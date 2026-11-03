@@ -42,8 +42,10 @@ Welcome to my GitHub profile! I'm a **20-year-old** software and indie game deve
 - **Description:** My current flagship indie game project. 
 - **Platform:** Designed to be **cross-platform** (available for all devices).
 - **Tech Stack:** Godot, GDScript.
+- **Status:** Private repository / In development.
 
 ---
 
 ### 📫 Get in Touch
-- Feel free to check out my current repositories or connect with me through my professional channels.
+- **Discord:** `saterndev`
+- Feel free to check out my current repositories or reach out!
