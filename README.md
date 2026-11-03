@@ -45,13 +45,5 @@ Welcome to my GitHub profile! I'm a **20-year-old** software and indie game deve
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaternDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Get in Touch
 - Feel free to check out my current repositories or connect with me through my professional channels.
