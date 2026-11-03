@@ -1,20 +1,20 @@
-# 👋 ¡Hola, soy Satern!
+# 👋 Hi, I'm Satern!
 
-<img src="https://komarev.com/ghpvc/?username=SaternDev&color=blue&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=SaternDev&color=blue&style=flat-square" alt="Profile views" />
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador de software y creador de videojuegos indie de **20 años** residente en **España**. Actualmente estoy cursando el ciclo formativo de **DAM (Desarrollo de Aplicaciones Multiplataforma)** y aprendiendo programación tanto en clase como de forma autodidacta.
-
----
-
-### 🚀 Sobre mí
-* 📚 Estoy estudiando **DAM** en España.
-* 🎮 Apasionado por el desarrollo de videojuegos, con experiencia utilizando **Godot Engine**.
-* 🌐 Nivel de inglés intermedio.
-* 💡 Me encanta aprender por mi cuenta tecnologías más allá del temario oficial de clase.
+Welcome to my GitHub profile! I'm a **20-year-old** software and indie game developer based in **Spain**. I'm currently studying **DAM** (*Multiplatform Application Development*) while constantly learning new programming concepts both in class and self-taught.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 About Me
+- 📚 Studying **DAM** in Spain (Java, HTML/CSS, Databases).
+- 🎮 Passionate about indie game development, specializing in **Godot Engine**.
+- 🌐 Intermediate level of English.
+- 💡 Self-taught learner always experimenting with new technologies outside of class.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -30,28 +30,28 @@
 
 ---
 
-### 🕹️ Proyectos Destacados
+### 🕹️ Featured Projects
 
 #### 🪐 [SaturnStarFight 2](https://play.google.com/store/apps/details?id=com.satern.satern)
-* **Descripción:** Videojuego desarrollado de forma independiente utilizando **Godot Engine**. 
-* **Plataforma:** Disponible exclusivamente para **Android** en la Google Play Store.
-* **Tecnologías:** Godot, GDScript.
-* **GitHub:** [Repository SSF2](https://github.com/SaternDev/Saturn-Star-Fight-2)
+- **Description:** An indie game developed using **Godot Engine**. 
+- **Platform:** Exclusively available for **Android** on the Google Play Store.
+- **Tech Stack:** Godot, GDScript.
+- **GitHub:** [Repository SSF2](https://github.com/SaternDev/Saturn-Star-Fight-2)
 
-#### 👁️ Peek into the Abyss *(En desarrollo)*
-* **Descripción:** Mi nuevo proyecto de videojuego actual. 
-* **Plataforma:** Diseñado para ser **multiplataforma** (disponible para todos los dispositivos).
-* **Tecnologías:** Godot, GDScript.
+#### 👁️ Peek into the Abyss *(In Development)*
+- **Description:** My current flagship indie game project. 
+- **Platform:** Designed to be **cross-platform** (available for all devices).
+- **Tech Stack:** Godot, GDScript.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaternDev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📫 ¿Cómo contactar conmigo?
-* Puedes ver mis repositorios actuales en este perfil o conectar conmigo a través de mis futuros enlaces profesionales.
+### 📫 Get in Touch
+- Feel free to check out my current repositories or connect with me through my professional channels.
