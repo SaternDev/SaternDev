@@ -32,10 +32,11 @@
 
 ### 🕹️ Proyectos Destacados
 
-#### 🪐 [SaturnStarFight 2](https://play.google.com/store/apps/details?id=TU_LINK_DE_GOOGLE_PLAY)
+#### 🪐 [SaturnStarFight 2](https://play.google.com/store/apps/details?id=com.satern.satern)
 * **Descripción:** Videojuego desarrollado de forma independiente utilizando **Godot Engine**. 
 * **Plataforma:** Disponible exclusivamente para **Android** en la Google Play Store.
 * **Tecnologías:** Godot, GDScript.
+* **GitHub:** [Repository SSF2](https://github.com/SaternDev/Saturn-Star-Fight-2)
 
 #### 👁️ Peek into the Abyss *(En desarrollo)*
 * **Descripción:** Mi nuevo proyecto de videojuego actual. 
