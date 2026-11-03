@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Satern!
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=blue&style=flat-square" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=SaternDev&color=blue&style=flat-square" alt="Visitas al perfil" />
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador de software y creador de videojuegos indie de **20 años** residente en **España**. Actualmente estoy cursando el ciclo formativo de **DAM (Desarrollo de Aplicaciones Multiplataforma)** y aprendiendo programación tanto en clase como de forma autodidacta.
 
